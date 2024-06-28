@@ -1,0 +1,5 @@
+*.so
+.SRCINFO
+.golangci.yaml
+oc-otp
+*/oc-otp
